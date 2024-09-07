@@ -1,0 +1,34 @@
+@font-face {
+    font-family: FonteStardew;
+    src: url(stardew-valley-stonks/stardew-valley-stonks.ttf) format(truetype);
+}
+
+body {
+    font-family: 'FonteStardew', sans-serif;
+}
+
+.menu {
+    background-color: #f9ca87;
+}
+
+.num {
+    font-size: x-large;
+    font-weight: 900;
+    text-shadow: #403022 2px 0px;
+    color: #b17b47;
+}
+
+.habilidade {
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#jogador {
+    padding: 50px;
+}
+
+.name {
+    text-align:start;
+    height: 40px;
+}
