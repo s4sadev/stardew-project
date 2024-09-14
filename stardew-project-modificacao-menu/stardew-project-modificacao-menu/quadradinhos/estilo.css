@@ -1,0 +1,14 @@
+@font-face {
+    font-family: FonteStardew;
+    src: url(/stardew-project-modificacao-menu/stardew-valley-stonks/stardew-valley-stonks.ttf) format(truetype);
+}
+
+body {
+    font-family: 'FonteStardew', sans-serif;
+}
+.profiscultivo5 {
+    background-color: #f9ca87;
+}
+.profiscultivo10 {
+    background-color: #f9ca87;
+}
