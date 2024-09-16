@@ -59,8 +59,9 @@ table{
     padding: 5px;
 }
 
-.barra {
-    margin: 5px;
+.barra img{
+    margin: 8px;
+
 }
 
 .num {
@@ -93,6 +94,7 @@ table{
                 0px 0px 0px 7px #853603;
     max-width: fit-content;
     width: auto;
+    height: auto;
     padding: 5px;
 }
 
@@ -102,4 +104,9 @@ main{
     align-items: center;
     justify-content: center;
     margin: 5px;
+}
+
+.barra-grande img:hover{
+    cursor:pointer;
+    margin-bottom: 20px;
 }
